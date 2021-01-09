@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #a52a2a;
+}
+.center {
+    text-align: center;
+} 
+.imhcrd {
+    border: 3px dotted #000000;
+}
+footer {
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+}
+.select {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+.select2{
+    font-style: italic;
+    color: #0000ff;
+}
+.blue{
+    color: #0000ff;
+}
+main{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%;
+    min-height: 100%;
+}
+.slide{
+    width: 100%;
+}
